@@ -1,0 +1,10 @@
+Shayna Grose | 301308729 | CMPT 413 - Final Project
+My Contributions
+
+* Found and cleaned the BBC Data set we used.
+* Wrote the web scraper using the newspaper3k library to gather more data.
+* Implemented the sentiment analysis using TF-IDF.
+* Worked with group members to understand the topic classification.
+* Worked with group members to implement topic classification models, and do hyper parameter tuning.
+* Created the final video presentation.
+* Wrote the project proposal, milestone, presentation (slides), and final report with teammates. 

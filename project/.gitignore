@@ -1,0 +1,12 @@
+venv
+__pycache__
+.DS_Store
+*.egg-info
+.ipynb_checkpoints
+hw4/data/seq2seq_E049.pt
+*.pt
+bbc-data
+bbc-data.zip
+.pickle
+.csv
+node_modules

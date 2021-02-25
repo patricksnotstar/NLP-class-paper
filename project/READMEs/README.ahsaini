@@ -1,0 +1,10 @@
+Anmol Saini | 301310819 | CMPT 413 - Final Project
+My Contributions
+
+* Found and cleaned the opinion lexicons (negative and positive) we used for the sentiment analysis.
+* Implemented the sentiment analysis for the raw-counts on article contents.
+* Compared and recorded the results of the sentiment analysis using raw-counts vs. TF-IDF. 
+* Worked with group members to understand the topic classification.
+* Wrote the Python Notebook that documents and highlights our analysis. 
+* Researched techniques we could use to improve our implementations and gathered ideas for future work. 
+* Wrote the project proposal, milestone, presentation (slides), and final report with teammates. 
